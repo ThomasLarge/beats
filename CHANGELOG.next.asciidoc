@@ -40,6 +40,9 @@ https://github.com/elastic/beats/compare/v8.7.1\...main[Check the HEAD diff]
 
 ==== Bugfixes
 
+*Affecting all Beats*
+
+
 *Auditbeat*
 
 
@@ -69,6 +72,9 @@ https://github.com/elastic/beats/compare/v8.7.1\...main[Check the HEAD diff]
 
 ==== Added
 
+*Affecting all Beats*
+
+
 *Auditbeat*
 
 
@@ -97,6 +103,9 @@ https://github.com/elastic/beats/compare/v8.7.1\...main[Check the HEAD diff]
 
 
 ==== Deprecated
+
+*Affecting all Beats*
+
 
 *Auditbeat*
 
